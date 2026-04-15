@@ -39,6 +39,7 @@ Eklediğiniz bağlantılardaki ürünlerin frekans ve çıkış gücü bakımın
 Alışveriş listeleri, projelerin adıyla müsemma oluşturulmuş olup içlerindeki tasnif H2 ve H3 başlıkları ile yapılmalıdır.
 
 **Örnek 1:** LoRa Modülleri (H2) > 433MHz LoRa Modülleri (H3) / 868MHz LoRa Modülleri (H3)
+
 **Örnek 2:** Mikrodenetleyiciler (H2) > ESP32 (H3) / nRF52 (H3)
 
 
