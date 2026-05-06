@@ -9,7 +9,7 @@
 
 ## nRF52
 - [NRF52840 Promicro](https://robiz.net/nrf52840promicro?search=nrf&description=true)
-
+- [NRF52840 Promicro](https://www.aletler.com.tr/urun/nrf52840-promicro-modul)
 
 
 ## ESP32
@@ -17,13 +17,11 @@
 - [ESP32-WROOM-32U](https://www.direnc.net/esp32-wroom-32u-wifi-bluetooth-gelistirme-board)
 
 
-
-
 ## LoRa
 
 - [Ra-02 SX1278 Dip Modül](https://robiz.net/ra02dip?search=lora%20&description=true)
 - [Ra-02 SX1278 SMD](https://www.tlsrobotik.com/urun/lora-ra-02-sx1278-433mhz-yayilma-spektrumlu-kablosuz-alici-verici-modulu/)
-
+- [Ra-01SC-P LLCC68 SMD](https://robiz.net/ra01scp)
 
 ## ANTENLER
 
@@ -37,6 +35,11 @@
 - [İpex SMA Dönüştürücü](https://www.direnc.net/ipex-sma-disi-kablo-15cm-1)
 
 
+## PCB
+- [Robotistan PCB Servisi](https://www.robotistan.com/pcb-servisi)
 
 
+## Toplu Parça Temini
 
+- [Robotistan(LSCS)](https://www.robotistan.com/komponent-servis)
+- [E-Kom(Digi-Key)](https://www.e-kom.com/partner/digikey)
