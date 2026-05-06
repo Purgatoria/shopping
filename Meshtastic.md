@@ -6,6 +6,8 @@
 
 - [LILYGO ESP32 Geliştirme Kartları](https://motorobit.com/lilygo)
 
+- [TTGO ESP32 Geliştirme Kartı](https://www.direnc.net/esp-32-lora-gelistirme-board-wifi-kiti-096-inch-oled-ekranli)
+
 
 ## nRF52
 - [NRF52840 Promicro](https://robiz.net/nrf52840promicro?search=nrf&description=true)
