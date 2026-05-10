@@ -43,5 +43,5 @@
 
 ## Toplu Parça Temini
 
-- [Robotistan(LSCS)](https://www.robotistan.com/komponent-servis)
+- [Robotistan(LCSC)](https://www.robotistan.com/komponent-servis)
 - [E-Kom(Digi-Key)](https://www.e-kom.com/partner/digikey)
