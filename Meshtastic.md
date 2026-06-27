@@ -34,7 +34,7 @@
 
 
 ## KONNEKTÖR
-- [İpex SMA Dönüştürücü](https://www.direnc.net/ipex-sma-disi-kablo-15cm-1)
+- [Ipex SMA Dönüştürücü](https://www.direnc.net/ipex-sma-disi-kablo-15cm-1)
 
 
 ## PCB
