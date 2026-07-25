@@ -36,6 +36,7 @@
 
 ## KONNEKTÖR
 - [Ipex SMA Dönüştürücü](https://www.direnc.net/ipex-sma-disi-kablo-15cm-1)
+- [Ipex - SMA-F Pigtail](https://www.motorobit.com/sma-ipex-1-donusturucu-kablo?srsltid=AfmBOoooh9NzRD9ElaETJoXAuyzyi6kV1mdf9np4-X_AyxMaO5t8IRD6)
 
 
 ## PCB
