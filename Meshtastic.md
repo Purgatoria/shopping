@@ -25,11 +25,13 @@
 - [Ra-02 SX1278 Dip Modül](https://robiz.net/ra02dip?search=lora%20&description=true)
 - [Ra-02 SX1278 SMD](https://www.tlsrobotik.com/urun/lora-ra-02-sx1278-433mhz-yayilma-spektrumlu-kablosuz-alici-verici-modulu/)
 - [Ra-01SC-P LLCC68 SMD](https://robiz.net/ra01scp)
+- [Ai-Thinker Ra-01SC-I](https://robotistanpro.com/ai-thinker-ra-01sc-i)
+- [Ai-Thinker Ra-01S](https://www.e-komponent.com/ra-01s-ai-thinker-433mhz-lora)
+  
 
 ## ANTENLER
 
 - [TYT Kısa Anten](https://baofengtelsiz.com/TYT-UV88-Standart-anten-erkek)
-
 - [TYT Uzun Anten](https://baofengtelsiz.com/TYT-Uzun-Anten-Dual-Bant)
 
 
@@ -41,9 +43,17 @@
 
 ## PCB
 - [Robotistan PCB Servisi](https://www.robotistan.com/pcb-servisi)
+- [Faketec v5b Gerber Dosyaları](https://github.com/user-attachments/files/21068605/fakeTecv5_rev_B_gerber_files.zip)
+
+
+## PİL
+-[Sertec Pil Paketi](https://www.shop.sertec.com.tr/sertec-104050-3-7v-3000mah-li-polymer-pil-devreli-1-5a)
+
+
+## KASALAR
+[Faketec Testosterone Edition](https://makerworld.com/en/models/1646395-faketec-case-testosterone-edition#profileId-2964304)
 
 
 ## Toplu Parça Temini
-
 - [Robotistan(LCSC)](https://www.robotistan.com/komponent-servis)
 - [E-Kom(Digi-Key)](https://www.e-kom.com/partner/digikey)
